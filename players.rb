@@ -10,5 +10,4 @@ class Player
   def lose_life
     @life -= 1
   end
-
 end 
